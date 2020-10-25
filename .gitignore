@@ -1,0 +1,6 @@
+.DS_Store
+*.pdf
+program1/szpcpp2020_program1-wzor-raportu.txt
+program1/CMakeLists.txt
+program1/cmake-build-debug
+program1/.idea
